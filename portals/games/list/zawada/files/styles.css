@@ -1,0 +1,13 @@
+body {
+	font-family: Calibri;
+	margin-top: 50px;
+	line-height: 20px;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+p.hidden {
+	color: transparent;
+}

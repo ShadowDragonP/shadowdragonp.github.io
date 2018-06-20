@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mango.data.unityweb",
+"asmCodeUrl": "mango.asm.code.unityweb",
+"asmMemoryUrl": "mango.asm.memory.unityweb",
+"asmFrameworkUrl": "mango.asm.framework.unityweb",
+"backgroundUrl": "mango.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}

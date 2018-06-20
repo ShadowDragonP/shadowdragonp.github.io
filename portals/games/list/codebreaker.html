@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | CODEBREAKER.EXE</title>
+    <link rel="shortcut icon" href="codebreaker/TemplateData/favicon.ico">
+    <link rel="stylesheet" href="codebreaker/TemplateData/style.css">
+    <script src="codebreaker/TemplateData/UnityProgress.js"></script>  
+    <script src="codebreaker/Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "codebreaker/Build/codebreaker.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 1024px; height: 576px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">CODEBREAKER.EXE</div>
+      </div>
+    </div>
+    <div style="margin-top: 700px; margin-left: 150px; margin-right: 150px; font-family: Calibri;">
+    	<h2>Download CODEBREAKER</h2>
+    	<p>Want to play this game offline? You can download CODEBREAKER for the following platforms:</p>
+    	<a href="../downloads/codebreaker-windows1.1.0.zip">Windows</a>
+    	<p>Linux: Coming Soon</p>
+    	<p>Android: Coming Soon</p>
+    </div>
+  </body>
+</html>

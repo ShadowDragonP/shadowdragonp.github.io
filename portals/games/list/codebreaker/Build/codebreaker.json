@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "codebreaker.data.unityweb",
+"asmCodeUrl": "codebreaker.asm.code.unityweb",
+"asmMemoryUrl": "codebreaker.asm.memory.unityweb",
+"asmFrameworkUrl": "codebreaker.asm.framework.unityweb",
+"backgroundUrl": "codebreaker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}

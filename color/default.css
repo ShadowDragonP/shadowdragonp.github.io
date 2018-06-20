@@ -1,0 +1,39 @@
+/* #67b0d1 */
+
+a,.tp-caption a.btn:hover {
+	color: black;
+}
+.top-nav-collapse {
+	background: black;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: black;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: black;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid black;
+}
+
+.bg-skin {
+	background: black;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: black;
+}
+
+footer {
+    background-color: black;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: black;
+  border-color: black;
+}

@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Fruits.data.unityweb",
+"asmCodeUrl": "Fruits.asm.code.unityweb",
+"asmMemoryUrl": "Fruits.asm.memory.unityweb",
+"asmFrameworkUrl": "Fruits.asm.framework.unityweb",
+"backgroundUrl": "Fruits.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}

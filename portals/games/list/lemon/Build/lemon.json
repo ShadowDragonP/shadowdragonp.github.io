@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "lemon.data.unityweb",
+"asmCodeUrl": "lemon.asm.code.unityweb",
+"asmMemoryUrl": "lemon.asm.memory.unityweb",
+"asmFrameworkUrl": "lemon.asm.framework.unityweb",
+"backgroundUrl": "lemon.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
