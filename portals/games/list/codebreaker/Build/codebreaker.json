@@ -1,10 +1,14 @@
 {
+"companyName": "YummyFruits Studios",
+"productName": "Codebreaker",
+"dataUrl": "Codebreaker.data.unityweb",
+"asmCodeUrl": "Codebreaker.asm.code.unityweb",
+"asmMemoryUrl": "Codebreaker.asm.memory.unityweb",
+"asmFrameworkUrl": "Codebreaker.asm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "codebreaker.data.unityweb",
-"asmCodeUrl": "codebreaker.asm.code.unityweb",
-"asmMemoryUrl": "codebreaker.asm.memory.unityweb",
-"asmFrameworkUrl": "codebreaker.asm.framework.unityweb",
-"backgroundUrl": "codebreaker.jpg",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Codebreaker.jpg",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#FFFFFF"
 }
