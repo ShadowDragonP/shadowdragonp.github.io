@@ -1,0 +1,14 @@
+{
+"companyName": "YummyFruits",
+"productName": "Spaceball",
+"dataUrl": "spaceball.data.unityweb",
+"asmCodeUrl": "spaceball.asm.code.unityweb",
+"asmMemoryUrl": "spaceball.asm.memory.unityweb",
+"asmFrameworkUrl": "spaceball.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "spaceball.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
