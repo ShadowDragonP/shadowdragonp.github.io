@@ -1,0 +1,14 @@
+{
+"companyName": "YummyFruits Studios",
+"productName": "Destined to Die",
+"dataUrl": "dtd.data.unityweb",
+"asmCodeUrl": "dtd.asm.code.unityweb",
+"asmMemoryUrl": "dtd.asm.memory.unityweb",
+"asmFrameworkUrl": "dtd.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "dtd.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
