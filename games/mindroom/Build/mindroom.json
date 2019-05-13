@@ -1,0 +1,13 @@
+{
+"companyName": "YummyFruits Studios",
+"productName": "Mind Room",
+"dataUrl": "mindroom.data.unityweb",
+"asmCodeUrl": "mindroom.asm.code.unityweb",
+"asmMemoryUrl": "mindroom.asm.memory.unityweb",
+"asmFrameworkUrl": "mindroom.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
